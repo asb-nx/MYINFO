@@ -81,7 +81,7 @@ color: #F1FAFF;
     width: fit-content;
     margin: 0 auto;
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 5rem;
     align-items: center;
     justify-content: center;
     margin-bottom: 9rem;
@@ -104,16 +104,11 @@ margin-bottom: 5rem;
     justify-content: center;
 }
 .service_content .card_group .card{
-    display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
-padding: 15px;
-border: 1px solid #11D000;
-border-radius: 4px;
-max-width: 290px;
-width: 100%;
-margin: 10px;
+    border:2px solid green;
+
+            padding: 20px;
+
+            margin: 11px;
 transition: 0.3s all;
 }
 .service_content .card_group .card h1{
@@ -237,7 +232,7 @@ margin-left: 15px;
             font-size: 14px;
         }
         .header div> h1{
-            font-size: 32px;
+            font-size: 25px;
         }
 .body_cntent span{
     font-size: 14px;
@@ -245,7 +240,7 @@ margin-left: 15px;
 }
 .body_cntent h1{
     font-size: 28px;
-    line-height: 1.4;
+    line-height: 5.4;
 
 }
 .body_cntent{
